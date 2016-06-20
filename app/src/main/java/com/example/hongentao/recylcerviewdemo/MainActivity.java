@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         // haha
         // haha1
+        // haha2
         init();
         initView();
         initListener();
